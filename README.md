@@ -8,7 +8,7 @@ Java was chosen due to the its VM and my aversion to using <winsock2.h> for C/C+
 
 # Anatomy
 The program(s) comes in two parts: 
-  The client jar and the server jar
+*The client jar and the server jar.
 
 The client jar creates a socket and attempts to the ServerSocket (which is assumed to already be running).
 
