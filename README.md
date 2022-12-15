@@ -4,7 +4,7 @@ A quick project done within minutes to help conceptualize everything after the 3
 From the tutorial [here](https://www.youtube.com/watch?v=bWKbdPAovFA&list=PLoW9ZoLJX39Xcdaa4Dn5WLREHblolbji4&ab_channel=AbhayRedkar
 ). 
 
-Java was chosen due to the its VM and my aversion to using <winsock2.h> for C/C++
+Java was chosen due to the its VM and my aversion to using <i><winsock2.h></i> for C/C++
 
 # Anatomy
 The program(s) comes in two parts: 
