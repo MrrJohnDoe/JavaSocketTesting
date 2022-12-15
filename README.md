@@ -11,6 +11,9 @@ The program(s) comes in two parts:
   The client jar and the server jar
 
 The client jar creates a socket and attempts to the ServerSocket (which is assumed to already be running).
+
 Afterwards, the user on the client side types in a string which is sent to the server and uppercased.
+
 The server than creates a socket which will be used to send the result back to the client via it's output stream.
+
 The result is printed on the client's console.
